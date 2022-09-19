@@ -76,7 +76,7 @@ const DeliveryScreen = () => {
         </View>
 
         <Text className="text-[#00ccbb] text-lg mr-5 font-bold">
-          Your rider
+          Call
         </Text>
       </SafeAreaView>
     </View>
